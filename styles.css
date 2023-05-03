@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+table, th, td{
+	border:1px solid black;
+	background-color:yellow;
+	
+}
+h1{
+	text-align:center;
+}
+table{
+	margin-right: auto;
+	margin-left: auto;
+}
